@@ -1,0 +1,62 @@
+
+body {
+    background-image: url('../assets/background.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  
+
+h1 {
+    margin-bottom: 20px;
+    color: white;
+    display: block;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 1px 0px #000, 
+               -1px 1px 0px #000,
+               1px -1px 0px #000,
+               -1px -1px 0px #000;
+}
+
+#resetButton {
+    display: block;
+    margin: 0 auto;  
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 1px 0px #000, 
+               -1px 1px 0px #000,
+               1px -1px 0px #000,
+               -1px -1px 0px #000;
+  }
+
+#score {
+    font-size: 24px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 1px 0px #000, 
+               -1px 1px 0px #000,
+               1px -1px 0px #000,
+               -1px -1px 0px #000;
+}    
+
+#resetButton:hover {
+    background-color: #218838; 
+    
+}
+
+canvas {
+    margin-bottom: 20px; 
+    display: block;
+    margin: 0 auto; 
+    width: 400px;
+    border: 2px solid #000;
+}
