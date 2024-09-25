@@ -11,4 +11,4 @@ O jogador pode reiniciar o jogo a qualquer momento.
 
 Para executar o jogo localmente:
 
-Baixe o arquivo e entre na pasta "SnakeDash", clique em "PlaySnake" e curta o jogo
+Baixe o arquivo e entre na pasta "SnakeDash", clique  no "index" e curta o jogo
